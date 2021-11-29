@@ -1,0 +1,14 @@
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\bin\Debug\net6.0\dotNet_exercise8.exe
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\bin\Debug\net6.0\dotNet_exercise8.deps.json
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\bin\Debug\net6.0\dotNet_exercise8.runtimeconfig.json
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\bin\Debug\net6.0\dotNet_exercise8.dll
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\bin\Debug\net6.0\ref\dotNet_exercise8.dll
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\bin\Debug\net6.0\dotNet_exercise8.pdb
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\obj\Debug\net6.0\dotNet_exercise8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\obj\Debug\net6.0\dotNet_exercise8.AssemblyInfoInputs.cache
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\obj\Debug\net6.0\dotNet_exercise8.AssemblyInfo.cs
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\obj\Debug\net6.0\dotNet_exercise8.csproj.CoreCompileInputs.cache
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\obj\Debug\net6.0\dotNet_exercise8.dll
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\obj\Debug\net6.0\ref\dotNet_exercise8.dll
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\obj\Debug\net6.0\dotNet_exercise8.pdb
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_exercise8\obj\Debug\net6.0\dotNet_exercise8.genruntimeconfig.cache
