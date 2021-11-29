@@ -1,0 +1,15 @@
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\bin\Debug\net6.0\dotNet_practice.exe
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\bin\Debug\net6.0\dotNet_practice.deps.json
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\bin\Debug\net6.0\dotNet_practice.runtimeconfig.json
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\bin\Debug\net6.0\dotNet_practice.dll
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\bin\Debug\net6.0\ref\dotNet_practice.dll
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\bin\Debug\net6.0\dotNet_practice.pdb
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\obj\Debug\net6.0\dotNet_practice.csproj.AssemblyReference.cache
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\obj\Debug\net6.0\dotNet_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\obj\Debug\net6.0\dotNet_practice.AssemblyInfoInputs.cache
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\obj\Debug\net6.0\dotNet_practice.AssemblyInfo.cs
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\obj\Debug\net6.0\dotNet_practice.csproj.CoreCompileInputs.cache
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\obj\Debug\net6.0\dotNet_practice.dll
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\obj\Debug\net6.0\ref\dotNet_practice.dll
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\obj\Debug\net6.0\dotNet_practice.pdb
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_practice\obj\Debug\net6.0\dotNet_practice.genruntimeconfig.cache
