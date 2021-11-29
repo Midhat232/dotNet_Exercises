@@ -1,0 +1,14 @@
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\bin\Debug\net6.0\dotNet_Exercise6.exe
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\bin\Debug\net6.0\dotNet_Exercise6.deps.json
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\bin\Debug\net6.0\dotNet_Exercise6.runtimeconfig.json
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\bin\Debug\net6.0\dotNet_Exercise6.dll
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\bin\Debug\net6.0\ref\dotNet_Exercise6.dll
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\bin\Debug\net6.0\dotNet_Exercise6.pdb
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\obj\Debug\net6.0\dotNet_Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\obj\Debug\net6.0\dotNet_Exercise6.AssemblyInfoInputs.cache
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\obj\Debug\net6.0\dotNet_Exercise6.AssemblyInfo.cs
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\obj\Debug\net6.0\dotNet_Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\obj\Debug\net6.0\dotNet_Exercise6.dll
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\obj\Debug\net6.0\ref\dotNet_Exercise6.dll
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\obj\Debug\net6.0\dotNet_Exercise6.pdb
+C:\Users\MIDHAT SHAIKH\source\repos\dotNet_Exercise6\obj\Debug\net6.0\dotNet_Exercise6.genruntimeconfig.cache
