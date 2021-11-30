@@ -1,0 +1,15 @@
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\bin\Debug\net6.0\Demo_dotNet.exe
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\bin\Debug\net6.0\Demo_dotNet.deps.json
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\bin\Debug\net6.0\Demo_dotNet.runtimeconfig.json
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\bin\Debug\net6.0\Demo_dotNet.dll
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\bin\Debug\net6.0\ref\Demo_dotNet.dll
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\bin\Debug\net6.0\Demo_dotNet.pdb
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\obj\Debug\net6.0\Demo_dotNet.csproj.AssemblyReference.cache
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\obj\Debug\net6.0\Demo_dotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\obj\Debug\net6.0\Demo_dotNet.AssemblyInfoInputs.cache
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\obj\Debug\net6.0\Demo_dotNet.AssemblyInfo.cs
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\obj\Debug\net6.0\Demo_dotNet.csproj.CoreCompileInputs.cache
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\obj\Debug\net6.0\Demo_dotNet.dll
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\obj\Debug\net6.0\ref\Demo_dotNet.dll
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\obj\Debug\net6.0\Demo_dotNet.pdb
+C:\Users\MIDHAT SHAIKH\source\repos\Demo_dotNet\obj\Debug\net6.0\Demo_dotNet.genruntimeconfig.cache
